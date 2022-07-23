@@ -1,7 +1,7 @@
 {
-	"auth_url": "https://myapi.rola.ai/auth-v1",
+	"auth_url": "https://raw.githubusercontent.com/devsideal/mock-api/main/auth/",
 	"user_image": "https://chostname.com/users/",
-	"support_email": "contact@rola.ai",
+	"support_email": "contact@company.com",
 	"aws_configuration": {
 		"access_key": "THISISDUMMYACCESSKEY",
 		"secret_key": "THISISDUMMYSECRETKEYITCANBITLONGERTHANACCESSKEY",
