@@ -1,0 +1,19 @@
+{
+	"result": {
+		"id": 1,
+		"authorization_id": "UXNmnKJKJmmnnjblxo1o1",
+		"first_name": "Deven",
+		"last_name": "Patel",
+		"email": "devendra@idealittechno.com",
+		"mobile": "8962134166",
+		"image": "https://randomuser.me/api/portraits/lego/5.jpg",
+		"email_verify": "yes",
+		"status": "active",
+		"notification_status": "yes",
+		"language": "en",
+		"user_type": "regular",
+		"subscription_type": "free",
+		"token": "eyJhbGciOsdfsdfsdfsJhQGlkZWFsaXR0ZWNobm8uY29tIiwibGFuZ3VhZ2UiOiJlbiIsInJvbGUiOiJ1c2VyIiwiaG91c2Vob2xkX3N0YXR1cyI6bnVsbCwidXNlcl90eXBlIjoicmVndWxhciIsInN0YXR1cyI6ImFjdGl2ZSIsInVzZXJfaWQiOjMsInNlbGZfYWNjb3VudF9pZCI6bnVsbCwic3BvdXNlX2lkIjpudWxsLCJpYXQiOjE2NTg1NzAwMzQsImV4cCI6MTY2MTE2MjAzNH0.shSauOFmlb_rB0so7hE5eC6vo2RBzPZzhq2VOMHEHDQ",
+		"message": "Login successfully"
+	}
+}
