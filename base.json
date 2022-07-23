@@ -1,0 +1,16 @@
+{
+	"auth_url": "https://myapi.rola.ai/auth-v1",
+	"user_image": "https://chostname.com/users/",
+	"support_email": "contact@rola.ai",
+	"aws_configuration": {
+		"access_key": "THISISDUMMYACCESSKEY",
+		"secret_key": "THISISDUMMYSECRETKEYITCANBITLONGERTHANACCESSKEY",
+		"s3_bucket": "bucket-name"
+	},
+	"ios_app_ver": "1.0.5",
+	"ios_force_update": false,
+	"ios_update_message": "This is the message to describe what new features included this new version",
+	"android_app_ver": "1.0.6",
+	"android_force_update": false,
+	"android_update_message": "This is the message to describe what new features included this new version"
+}
